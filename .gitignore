@@ -49,3 +49,4 @@ Thumbs.db
 !existing_provider_clinic_list.csv
 !provider_linked_el_paso.csv
 !provider_complete_linked_lascruces_elpaso.csv
+.env
